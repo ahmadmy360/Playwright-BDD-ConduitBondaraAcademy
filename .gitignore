@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Playwright output
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+.auth/
+
+# playwright-bdd: file test hasil generate dari .feature
+.features-gen/
+
+# Allure report
+allure-results/
+allure-report/
+
+# Kredensial
+.env
+
+# OS
+.DS_Store
+allure-results/
+allure-report/
